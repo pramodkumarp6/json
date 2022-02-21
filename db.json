@@ -1,9 +1,114 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Nagender",
+      "lastname": "prasad",
+      "email": "bagendraprasad@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 1
+    },
+    {
+      "name": "json-server",
+      "email": "pramodkumarp6@gmail.com",
+      "address": "bhangel",
+      "id": 2
+    },
+    {
+      "name": "Nagender",
+      "lastname": "prasad",
+      "email": "bagendraprasad@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 3
+    },
+    {
+      "name": "Nagender",
+      "lastname": "prasad",
+      "email": "bagendraprasad@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 4
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 5
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 6
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 7
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 8
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 9
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 10
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 11
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 12
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 13
+    },
+    {
+      "name": "Pramod",
+      "lastname": "kumar",
+      "email": "pramodkumarp6@gmail.com",
+      "password": "pandey@123",
+      "address": "bhangel",
+      "id": 14
     }
   ],
   "users": [
@@ -26,6 +131,30 @@
     },
     {
       "id": 6
+    },
+    {
+      "name": "json-server",
+      "email": "pramodkumarp6@gmail.com",
+      "address": "bhangel",
+      "id": 7
+    },
+    {
+      "name": "json-server",
+      "email": "pramodkumarp6@gmail.com",
+      "address": "bhangel",
+      "id": 8
+    },
+    {
+      "name": "json-server",
+      "email": "pramodkumarp6@gmail.com",
+      "address": "bhangel",
+      "id": 9
+    },
+    {
+      "name": "json-server",
+      "email": "pramodkumarp6@gmail.com",
+      "address": "bhangel",
+      "id": 10
     }
   ],
   "profile": {
